@@ -1,0 +1,3 @@
+print(2 + 3 * 4 ** 2)
+print((2 + 3) * 4 ** 2)
+print(10 > 5 and 3 < 1 or not False)
